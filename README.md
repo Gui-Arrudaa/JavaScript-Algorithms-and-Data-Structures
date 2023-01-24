@@ -1,10 +1,8 @@
 # JavaScript Algorithms and Data Structures
 
-[freeCodeCamp](https://www.freecodecamp.org) JavaScript Algorithms and Data Structures course [projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects).<br>
-All files were made with the intention of helping the developer community.<br>
-You can access all the projects and study each one. You can also clone this repository to your profile.
+[freeCodeCamp](https://www.freecodecamp.org) JavaScript Algorithms and Data Structures course [projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects).
 
-# Solutions
+## Solutions
 
 - [Caesars Cipher](Caesars%20Cipher/index.js)
 - [Cash Register](Cash%20Register/index.js)
