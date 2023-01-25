@@ -1,4 +1,6 @@
-# 🎯 Objective
+# Caesars Cipher
+
+## 🎯 Objective
 
 One of the simplest and most widely known _ciphers_ is a _Caesar cipher_, also known as a _shift cipher_. In a shift cipher the meanings of the letters are shifted by some set amount.
 
