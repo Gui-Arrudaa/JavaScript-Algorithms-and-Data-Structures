@@ -1,4 +1,6 @@
-# 🎯 Objective
+# Telephone Number Validator
+
+## 🎯 Objective
 
 Return `true` if the passed string looks like a valid US phone number.
 
