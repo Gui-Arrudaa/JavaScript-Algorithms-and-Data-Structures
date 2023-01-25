@@ -9,7 +9,7 @@ const unidade = {
   7: 'VII',
   8: 'VIII',
   9: 'IX',
-}
+};
 
 const dezena = {
   0: '',
@@ -21,8 +21,8 @@ const dezena = {
   6: 'LX',
   7: 'LXX',
   8: 'LXXX',
-  9: 'XC'
-}
+  9: 'XC',
+};
 
 const centena = {
   0: '',
@@ -34,15 +34,15 @@ const centena = {
   6: 'DC',
   7: 'DCC',
   8: 'DCCC',
-  9: 'CM'
-}
+  9: 'CM',
+};
 
 const milhar = {
   0: '',
   1: 'M',
   2: 'MM',
-  3: 'MMM'
-}
+  3: 'MMM',
+};
 
 function convertToRoman(num) {
   let u = Math.floor(num / 1) % 10;
